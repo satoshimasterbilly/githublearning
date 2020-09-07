@@ -7,7 +7,10 @@ Cake Recipe:
 
 
 Soup Recipe:
-1)
+1)add water
+2)add salt
+3)Add Meat
+4)Cook
 
 
 Meat Dish:
